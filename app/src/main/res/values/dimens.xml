@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- detail_fragment -->
+    <dimen name="detail_image_size">150dp</dimen>
+    <dimen name="detail_image_margin">20dp</dimen>
+    <dimen name="detail_title_margin">10dp</dimen>
+    <dimen name="detail_title_text_size">16sp</dimen>
+    <dimen name="detail_subtitle_margin_top">40dp</dimen>
+    <dimen name="detail_subtitle_margin_end">10dp</dimen>
+    <dimen name="detail_button_margin">40dp</dimen>
+    <!-- home_fragment -->
+    <dimen name="home_lottie_width">0dp</dimen>
+    <dimen name="home_lottie_height">200dp</dimen>
+    <dimen name="home_rv_width">0dp</dimen>
+    <dimen name="home_rv_height">0dp</dimen>
+    <dimen name="home_rv_margin_top">20dp</dimen>
+    <!-- item_image -->
+    <dimen name="item_img_size">200dp</dimen>
+    <dimen name="item_img_padding">10dp</dimen>
+    <!-- more_details_fragment -->
+    <dimen name="more_details_title_width">0dp</dimen>
+    <dimen name="more_details_title_height">0dp</dimen>
+    <dimen name="more_details_title_margin">20dp</dimen>
+    <dimen name="more_details_title_text_size">16sp</dimen>
+    <dimen name="more_details_img_width">0dp</dimen>
+    <dimen name="more_details_img_height">300dp</dimen>
+    <dimen name="more_details_img_margin">20dp</dimen>
+    <dimen name="more_details_content_width">0dp</dimen>
+    <dimen name="more_details_content_height">0dp</dimen>
+    <dimen name="more_details_content_margin">20dp</dimen>
+    <!-- splash_fragment -->
+    <dimen name="splash_img_width">0dp</dimen>
+    <dimen name="splash_img_height">0dp</dimen>
+</resources>
